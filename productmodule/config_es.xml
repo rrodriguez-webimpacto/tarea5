@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>productmodule</name>
+    <displayName><![CDATA[Product Module]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Este es un m&oacute;dulo para configurar la ficha de un producto]]></description>
+    <author><![CDATA[Rafa Rodr&iacute;guez]]></author>
+    <tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
